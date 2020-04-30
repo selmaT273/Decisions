@@ -1,0 +1,12 @@
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.deps.json
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.runtimeconfig.json
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.runtimeconfig.dev.json
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.dll
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.pdb
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.csprojAssemblyReference.cache
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.csproj.CoreCompileInputs.cache
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.AssemblyInfoInputs.cache
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.AssemblyInfo.cs
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.dll
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.pdb
+/Users/staceyteltser/Desktop/deltav401/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.genruntimeconfig.cache
